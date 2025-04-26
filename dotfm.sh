@@ -17,7 +17,7 @@ echo "████████████████████████�
 echo ""
 echo Welcome $USER, what would you like to do today?
 echo
-echo "a) Add, push, and commit dotfiles"
+echo "a) Add, commit, and push dotfiles"
 echo "b) Update the dotfiles in ~/dotfiles"
 echo "c) Edit your config files"
 echo "q) Exit"
