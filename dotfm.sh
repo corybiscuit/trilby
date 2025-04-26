@@ -20,7 +20,6 @@ echo
 echo "a) Add, push, and commit dotfiles"
 echo "b) Update the dotfiles in ~/dotfiles"
 echo "c) Edit your config files"
-echo "d) Edit this script"
 echo "q) Exit"
 
 read answer
